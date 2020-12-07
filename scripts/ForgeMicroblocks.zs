@@ -1,0 +1,173 @@
+import mods.nei.NEI;
+
+
+# Remove broken Items & Blocks
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "Techguns:concrete_4"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "Techguns:concrete_4"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "Techguns:metalpanel2_6"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "Techguns:metalpanel2_6"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:arcane_10"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:arcane_10"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:arcane_11"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:arcane_11"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:arcane_3"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:arcane_3"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:arcane_4"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:arcane_4"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:arcane_9"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:arcane_9"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:bookshelf_1"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:bookshelf_1"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:bookshelf_2"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:bookshelf_2"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:bookshelf_3"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:bookshelf_3"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:bookshelf_4"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:bookshelf_4"}));
+
+NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: "chisel:bookshelf_5"}));
+NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: "chisel:bookshelf_5"}));
+
+# NEI.hide(<ForgeMicroblock:microblock:1>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:2>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:4>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:257>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:258>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:260>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:513>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:514>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:516>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:769>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:770>.withTag({mat: ""}));
+# NEI.hide(<ForgeMicroblock:microblock:772>.withTag({mat: ""}));
