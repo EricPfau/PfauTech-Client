@@ -1,0 +1,47 @@
+{
+	"food": {
+		"oredict": [
+			"example"
+		],
+		"items": [
+			"minecraft:cake",
+			"Avaritia:Ultimate_Stew",
+			"gregtech:gt.multiitem.food:32109",
+			"harvestcraft:pamcheeseCake",
+			"harvestcraft:pamcherrycheeseCake",
+			"harvestcraft:pamredvelvetCake",
+			"harvestcraft:pamholidayCake",
+			"harvestcraft:pampumpkincheeseCake",
+			"harvestcraft:pampavlovaCake",
+			"harvestcraft:cheeseItem",
+			"harvestcraft:grilledcheeseItem",
+			"harvestcraft:pumpkinsoupItem",
+			"harvestcraft:carrotsoupItem",
+			"harvestcraft:loadedbakedpotatoItem",
+			"harvestcraft:stuffedmushroomItem",
+			"harvestcraft:cheeseburgerItem",
+			"harvestcraft:baconcheeseburgerItem",
+			"harvestcraft:hotchocolateItem",
+			"harvestcraft:chickenparmasanItem",
+			"harvestcraft:pizzaItem",
+			"harvestcraft:deluxecheeseburgerItem",
+			"harvestcraft:delightedmealItem",
+			"harvestcraft:onionsoupItem",
+			"harvestcraft:cornbreadItem",
+			"harvestcraft:nachoesItem",
+			"harvestcraft:tacoItem",
+			"harvestcraft:fishtacoItem",
+			"harvestcraft:creamedcornItem",
+			"harvestcraft:cucumbersoupItem",
+			"harvestcraft:mushroomrisottoItem",
+			"harvestcraft:curryItem",
+			"harvestcraft:rainbowcurryItem",
+			"harvestcraft:beanburritoItem",
+			"harvestcraft:supremepizzaItem",
+			"harvestcraft:epicbaconItem",
+			"arcticmobs:palesoup"
+		]
+	},
+	"name": "Dairy",
+	"color": "white"
+}

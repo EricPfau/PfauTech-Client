@@ -1,0 +1,25 @@
+{
+	"food": {
+		"oredict": [
+			"example"
+		],
+		"items": [
+			"minecraft:golden_apple:1",
+			"Avaritia:Ultimate_Stew",
+			"Avaritia:Cosmic_Meatballs",
+			"harvestcraft:rainbowcurryItem",
+			"harvestcraft:epicbaconItem",
+			"etfuturum:chorus_fruit",
+			"infernomobs:searingtaco",
+			"lycanitesmobs:battleburrito",
+			"lycanitesmobs:explorersrisotto",
+			"mountainmobs:peakskebab",
+			"saltwatermobs:seashellmaki",
+			"shadowmobs:bloodchili",
+			"swampmobs:mosspie",
+			"Thaumcraft:ItemZombieBrain"
+		]
+	},
+	"name": "Magical",
+	"color": "light_purple"
+}
