@@ -1,0 +1,9 @@
+HardcoreQuesting:quest_book,1,0
+gregtech:gt.metatool.01,1,0,{ench:[0:{lvl:1s,id:20s}],GT.ToolStats:{a:8002s,c:8221s,j:4800s}}
+gregtech:gt.metatool.01,1,2,{GT.ToolStats:{a:8002s,c:8221s,j:4800s}}
+gregtech:gt.metatool.01,1,6,{ench:[0:{lvl:1s,id:20s}],GT.ToolStats:{a:8002s,c:8221s,j:4800s}}
+minecraft:torch,64,0
+gregtech:gt.multiitem.books,1,32000,{author:"GMWI (Gregorius Metal Working Industries)",book:"Manual_Smeltery",title:"Smelting Crucible Manual"}
+gregtech:gt.multiitem.books,1,32000,{author:"GITF (Gregorius Industrial Tool Factory)",book:"Manual_Tools",title:"Tool Index"}
+SpiceOfLife:lunchbag,1,0,{UUID:"54d7e2d5-7da5-4a6e-b86e-61f6c1fbd233",Inventory:{Items:[0:{Slot:0b,id:364s,Count:16b,Damage:0s},1:{Slot:1b,id:260s,Count:16b,Damage:0s},2:{Slot:2b,id:393s,Count:16b,Damage:0s}]},Open:0b}
+Backpack:backpack,1,0
